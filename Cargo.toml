@@ -1,0 +1,6 @@
+[package]
+name = "easy_color"
+version = "0.1.0"
+authors = ["zzt <369815332@qq.com>"]
+
+[dependencies]
